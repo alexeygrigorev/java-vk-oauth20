@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>ru.0arg</groupId>
+	<groupId>ru.0agr</groupId>
 	<artifactId>vkontakte-http-api</artifactId>
 	<packaging>jar</packaging>
 
