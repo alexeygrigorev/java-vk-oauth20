@@ -82,6 +82,4 @@ public class VkController {
 If, for any reasons, you don't use maven, and don't want to build artifacts yourself, here is [the jar for downloading](http://java-vk-oauth20.googlecode.com/svn/m2/releases/ru/0agr/vkontakte-http-api/0.2/vkontakte-http-api-0.2.jar)
 
 ## About
-Anyone is free to contribure - ask me for permissions at _alexey.s.grigoriev(a)gmail(.)com_
-
 This is released under [WTFPL](http://sam.zoy.org/wtfpl/COPYING), which means you can do anything you want with this code. 
